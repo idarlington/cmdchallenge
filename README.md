@@ -1,6 +1,4 @@
 # cmdchallenge
-Answers to cmdchallenge.com
-
 
 #### Answers to [cmdchallenge.com](http://cmdchallenge.com)
 1. ```echo "hello world"```
@@ -20,7 +18,7 @@ Answers to cmdchallenge.com
 15. ```grep "GET" access.log | wc -l```
 16. ```cat split-me.txt | sed "s/;/\\n/g"```
 17. ```seq -s ' ' 1 100```
-18  ```rm -r -- -a -f -foo```
-19 ``````find . -name "*.doc" -type f -print0 | xargs -0 rm -f```  or ```find . -name "*.doc" -type f -delete```
-20 ```find . -type f ! -name "*.txt" -a -not -name "*.exe" -delete```
+18.  ```rm -r -- -a -f -foo```
+19. ``````find . -name "*.doc" -type f -print0 | xargs -0 rm -f```  or ```find . -name "*.doc" -type f -delete```
+20. ```find . -type f ! -name "*.txt" -a -not -name "*.exe" -delete```
 
